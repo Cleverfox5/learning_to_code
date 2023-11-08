@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include "ArrayList.h"
 #include "Stack.h"
-#include <conio.h>
+#include <conio.h>//Использовался для провекрки
 
 using namespace std;
 
