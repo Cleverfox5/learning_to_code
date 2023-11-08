@@ -1,0 +1,11 @@
+﻿  Alg_laba_2.cpp
+D:\University\proga\labs\Alg_laba_2\Alg_laba_2.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\University\proga\labs\Alg_laba_2\Alg_laba_2.cpp(60,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\University\proga\labs\Alg_laba_2\Alg_laba_2.cpp(87,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\University\proga\labs\Alg_laba_2\Alg_laba_2.cpp(301,82): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\Alg_laba_2\Alg_laba_2.cpp(302,98): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\Alg_laba_2\Alg_laba_2.cpp(336,82): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\Alg_laba_2\Alg_laba_2.cpp(337,98): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\Alg_laba_2\Alg_laba_2.cpp(363,70): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\Alg_laba_2\Alg_laba_2.cpp(364,86): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+  Alg_laba_2.vcxproj -> D:\University\proga\labs\Alg_laba_2\x64\Debug\Alg_laba_2.exe
