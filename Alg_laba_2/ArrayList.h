@@ -112,18 +112,11 @@ public:
 
     Type& operator[](int index) {
         if ((index < 0) || (index > size)) {
-            throw std::runtime_error("Недопустимое значение для индекса массива");
+            throw std::runtime_error("ГЌГҐГ¤Г®ГЇГіГ±ГІГЁГ¬Г®ГҐ Г§Г­Г Г·ГҐГ­ГЁГҐ Г¤Г«Гї ГЁГ­Г¤ГҐГЄГ±Г  Г¬Г Г±Г±ГЁГўГ ");
         }
-        if (index == size) {//прописать ограничититель, ибо сейчас просто выбрасывается мусор
+        if (index == size) {//ГЇГ°Г®ГЇГЁГ±Г ГІГј Г®ГЈГ°Г Г­ГЁГ·ГЁГІГЁГІГҐГ«Гј, ГЁГЎГ® Г±ГҐГ©Г·Г Г± ГЇГ°Г®Г±ГІГ® ГўГ»ГЎГ°Г Г±Г»ГўГ ГҐГІГ±Гї Г¬ГіГ±Г®Г°
             EnsureCapacity(size + 1);
             size++;
-        }
-        return data[index];
-    }
-
-    const Type& operator[](int index) const{
-        if ((index < 0) || (index >= size)) {
-            throw std::runtime_error("Недопустимое значение для индекса массива");
         }
         return data[index];
     }
