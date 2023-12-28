@@ -1,0 +1,17 @@
+﻿  course_work.cpp
+D:\University\proga\labs\course_work\Timsort.h(293,1): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\course_work\Timsort.h(270): message : во время компиляции функции-члена класс шаблон "void Timsort<Edge>::current_run(ArrayList<Edge> &,int,Stack<int> &,Stack<int> &)"
+D:\University\proga\labs\course_work\Timsort.h(400): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Timsort<Edge>::current_run(ArrayList<Edge> &,int,Stack<int> &,Stack<int> &)"
+D:\University\proga\labs\course_work\course_work.cpp(95): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Timsort<Edge>"
+D:\University\proga\labs\course_work\Timsort.h(294,1): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\course_work\Timsort.h(328,1): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\course_work\Timsort.h(329,1): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\course_work\Timsort.h(355,1): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\course_work\Timsort.h(356,1): warning C4305: аргумент: усечение из "std::ios_base &(__cdecl *)(std::ios_base &)" в "bool"
+D:\University\proga\labs\course_work\Timsort.h(52,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\University\proga\labs\course_work\Timsort.h(30): message : во время компиляции функции-члена класс шаблон "void Timsort<Edge>::merge_sort(ArrayList<Edge> &,int,int,int,int,Stack<int> &,Stack<int> &)"
+D:\University\proga\labs\course_work\Timsort.h(375): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Timsort<Edge>::merge_sort(ArrayList<Edge> &,int,int,int,int,Stack<int> &,Stack<int> &)"
+D:\University\proga\labs\course_work\Timsort.h(79,61): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  HereWeGoAgain.cpp
+  Создание кода...
+  course_work.vcxproj -> D:\University\proga\labs\course_work\x64\Debug\course_work.exe
